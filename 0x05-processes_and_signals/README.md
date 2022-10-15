@@ -1,6 +1,6 @@
 # Processes and signals
 
-**ALX SE Project** - Processes and signals (`ps`, `pgrep`, `pkill`, `kill`, etc) using **Bash**.
+**ALX SE Project** - Processes and signals (`ps`, `pgrep`, `pkill`, `kill`, `exit`, `trap`, etc) using **Bash**.
 
 ## Technologies
 
