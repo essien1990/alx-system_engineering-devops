@@ -1,2 +1,2 @@
-## ALX SE Project using DevOps, Scripting, SysAdmin and Debbugging 
-# Web stack debugging
+# ALX SE Project using DevOps, Scripting, SysAdmin and Debugging 
+### Web stack debugging
