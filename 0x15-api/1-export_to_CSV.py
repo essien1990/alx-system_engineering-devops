@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 """Exports to-do list information for a given employee ID to CSV format."""
+
 import csv
 import requests
 from sys import argv
